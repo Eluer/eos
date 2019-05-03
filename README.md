@@ -1,7 +1,8 @@
 
 [` RSI Copyright© - Void `](https://www.johannes-bauer.com/compsci/ecc)|
-[` Copyright 2019 - OΣR `](https://github.com/HorizonTR/XTR/blob/master/Information.lc)|
+[`Microsoft Copyright© `](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Conversion_between_quaternions_and_Euler_angles.html)|
 [` Secure Lıcance`](https://www.mcafeesecure.com/verify?host=ozturna.info)
+
 ***
 <?xml version="1.0" encoding="utf-8"?>
 <assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
