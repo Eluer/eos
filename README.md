@@ -1,5 +1,5 @@
 
-[` RSI Copyright© - Void `](https://www.johannes-bauer.com/compsci/ecc)|
+[` RSI Copyright© `](https://www.johannes-bauer.com/compsci/ecc)|
 [`Microsoft Copyright© `](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Conversion_between_quaternions_and_Euler_angles.html)|
 [` Secure Lıcance`](https://www.mcafeesecure.com/verify?host=ozturna.info)
 
